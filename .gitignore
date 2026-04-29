@@ -1,3 +1,8 @@
-__pycache__
+data/raw/
+data/split/
+models/
+__MACOSX/
+*.keras
+preview.jpg
+.ipynb_checkpoints/
 .env
-.learn
